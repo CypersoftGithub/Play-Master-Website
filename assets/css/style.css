@@ -12,8 +12,8 @@
 
 :root {
     --theme-color: #F2003A;
-    --theme-color2: #FFBE18;
-    --theme-color3: #6240CF;
+    --theme-color2: #37499f;
+    --theme-color3: #37499f;
     --title-color: #0B0E13;
     --body-color: #969EB2;
     --smoke-color: #F5F7FA;
@@ -23565,6 +23565,7 @@ span.select2-selection.select2-selection--single:focus {
     width: 100%;
     height: 100vh;
     overflow: hidden;
+    box-shadow: 400px 400px 400px 400px inset #0000008f; 
 }
 
 .background-video {
